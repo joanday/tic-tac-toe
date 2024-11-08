@@ -1,0 +1,77 @@
+#background{
+    width: 1510px;
+    height: 730px;
+}
+
+.links{
+    margin-left: 50px;
+    margin-top: -700px;
+}
+
+#home, #profile, #tc{
+    margin-right: 100px;
+}
+
+#tc{
+    color: red
+}
+
+a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+h1{
+    color: white;
+}
+
+.cell{
+    color: white;
+    width: 75px;
+    height: 75px;
+    border: 2px solid;
+    box-shadow: 0 0 0 2px;
+    line-height: 75px;
+    font-size: 50px;
+    cursor: pointer;
+}
+
+#gameContainer{
+    font-family: "Permanent Marker",cursive;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#cellContainer{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 225px;
+    margin: auto;
+    color: white;
+}
+
+#restartBtn{
+    margin-top: 20px;
+    margin-left: 720px;
+    border-radius: 50px;
+    height: 30px;
+    width: 100px;
+    color: red;
+    font-size: 15px;
+}
+
+#restartBtn:hover{
+    color: white;
+    background-color: red;
+}
+
+#statusText{
+    color: white;
+    margin-left: 730px ;
+}
+

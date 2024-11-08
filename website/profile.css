@@ -1,0 +1,82 @@
+#background{
+    width: 1510px;
+    height: 730px;
+}
+
+.links{
+    margin-left: 50px;
+    margin-top: -700px;
+}
+
+#home, #profile, #tc{
+    margin-right: 100px;
+}
+
+#profile{
+    color: red;
+}
+
+a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+#jm{
+    border-radius: 50px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+#p1{
+    color: white;
+    font-size: 20px;
+    margin-left: 320px;
+    margin-top: -250px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#p2{
+    color:white;
+    font-size: 20px;
+    margin-left: 320px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+#p3{
+    color:white;
+    font-size: 20px;
+    margin-left: 320px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#nard{
+    border-radius: 50px;
+    height: 300px;
+    margin-left: 800px;
+    margin-top: -250px;
+}
+
+#p4{
+    color: white;
+    font-size: 20px;
+    margin-left: 1100px;
+    margin-top: -260px;
+}
+
+#p5{
+    color: white;
+    font-size: 20px;
+    margin-left: 1100px;
+}
+
+#p6{
+    color: white;
+    font-size:20px;
+    margin-left:1100px;
+}
